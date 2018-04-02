@@ -176,5 +176,5 @@ class MentionID:
             return set([])
 
 
-# def load_training_data(path, encode='utf-8'):
-#     with open(path, 'r', encoding=encode) as fi:
+#def load_qa_data(path, encode='utf-8'):
+ #   with open(path, 'r', encoding=encode) as fi:
